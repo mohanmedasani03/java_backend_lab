@@ -1,0 +1,8 @@
+My Java Backend Learning Journey
+
+Day 1:
+- Installed Java
+- Installed Git
+- Created GitHub Repository
+- Learned Clone
+- Learned Git Status
